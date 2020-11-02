@@ -13,7 +13,7 @@ Tone Analyzer,Node- RED
 As governments and organizations continue to work towards COVID-19 and stem the growing humanitarian toll it is exacting, the economic effects are also beginning to be felt. We can track sentiment to gauge how people’s expectations, incomes, spending, and behaviors change throughout the crisis across the country over time and also predict their
 state if the lockdown is extended.
 
-### Solution Requirement:
+### Solution:
 
 The project mainly focuses on people’s sentiment towards the pandemic, understands the sentiments of people on government’s decisions to extend the lockdown and possibility to predict riots against the government. 
 
