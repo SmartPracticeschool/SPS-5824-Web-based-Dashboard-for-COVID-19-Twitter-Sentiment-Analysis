@@ -8,6 +8,8 @@ Tone Analyzer,Node- RED
 
 ### Project Description:
 
+Video Description: https://youtu.be/DCVxn5f4nUY
+
 ### Project Idea:
 
 As governments and organizations continue to work towards COVID-19 and stem the growing humanitarian toll it is exacting, the economic effects are also beginning to be felt. We can track sentiment to gauge how people’s expectations, incomes, spending, and behaviors change throughout the crisis across the country over time and also predict their
